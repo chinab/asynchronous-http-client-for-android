@@ -1,0 +1,1 @@
+This library allows you to make **asynchronous** http requests in your android applications. Also it allows you to change **request method**, to use **request parameters** and to change **timeout values** of the request.
